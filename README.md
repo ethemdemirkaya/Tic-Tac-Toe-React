@@ -1,4 +1,4 @@
-![Tic Tac Toe Game](https://raw.githubusercontent.com/your-username/your-repo/main/Assets/tictactoe.png](https://raw.githubusercontent.com/ethemdemirkaya/Tic-Tac-Toe-React/main/tictactoe.png)](https://raw.githubusercontent.com/ethemdemirkaya/Tic-Tac-Toe-React/main/tictactoe.png)
+![Tic Tac Toe Game](https://raw.githubusercontent.com/ethemdemirkaya/Tic-Tac-Toe-React/main/tictactoe.png)
 
 # Getting Started with Create React App
 
