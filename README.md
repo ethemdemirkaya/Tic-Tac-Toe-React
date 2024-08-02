@@ -1,4 +1,4 @@
-![Tic Tac Toe Game](https://raw.githubusercontent.com/ethemdemirkaya/Tic-Tac-Toe-React/main/tictactoe.png](https://github.com/ethemdemirkaya/Paldeck-React-App/blob/main/paldeck.png)
+![Tic Tac Toe Game](https://github.com/ethemdemirkaya/Paldeck-React-App/blob/main/paldeck.png)
 
 # Getting Started with Create React App
 
